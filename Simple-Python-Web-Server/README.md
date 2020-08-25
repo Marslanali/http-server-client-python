@@ -1,6 +1,2 @@
-Simple Python Web Server
-========================
+#Simple python web server
 
-This is the source code for howCode's simple Python Web Server.
-
-You can watch the video that accompanies this source code here: https://youtu.be/hFNZ6kdBgO0
